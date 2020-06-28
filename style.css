@@ -8,8 +8,8 @@ h1{
 
 
 #maindiv {
-  width: 1219px;
-  height: 900px;
+  width: 1230px;
+  height: 700px;
   background: red;
   animation: mymove 5s infinite;
 }
