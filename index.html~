@@ -8,9 +8,10 @@
 <script src="https://cdn.jsdelivr.net/npm/@tensorflow/tfjs@2.0.0/dist/tf.min.js"></script>
 <script src="script.js"></script>
 <link rel="stylesheet" type="text/css" href="style.css">
+<script src="jquery.js"></script>
 </head>
 <body>
-<div style="text-align: center;"><div id="myDIV"><h1 class='main'>Pillowware101</h1></div></div>
+<div class="myDIV"><h1 class='main'>Pillowware101</h1></div>
 <a href="http://bluefish.openoffice.nl/">Made with Bluefish HTML editor.</a>
 </body>
 </html>
