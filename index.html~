@@ -8,7 +8,6 @@
 </head>
 <body>
 <div id="myDIV"><h1 class='main'>Pillowware101</h1></div>
-<button type="button" onclick="falsealarm()">Click Me for free money!!</button>
 <a href="http://bluefish.openoffice.nl/">Made with Bluefish HTML editor.</a>
 </body>
 </html>
