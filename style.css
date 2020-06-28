@@ -9,7 +9,7 @@ h1{
 
 #maindiv {
   width: 1219px;
-  height: 400px;
+  height: 900px;
   background: red;
   animation: mymove 5s infinite;
 }

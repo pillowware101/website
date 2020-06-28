@@ -7,7 +7,7 @@ h1{
 }
 
 
-.myDIV {
+#maindiv {
   width: 1219px;
   height: 400px;
   background: red;
